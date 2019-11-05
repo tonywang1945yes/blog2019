@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: tonywang1945yes/blog2019
 
 media_folder: static/assets
 public_folder: assets
